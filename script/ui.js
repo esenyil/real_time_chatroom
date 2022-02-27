@@ -1,4 +1,3 @@
-window.dateFns = require('date-fns');
 // clear the list of chats (when the room changes)
 
 class ChatUI {
